@@ -21,7 +21,7 @@ I recently took on the challenge of recreating Amazon’s landing page using jus
 
 👨‍💻 Next Steps: I plan to integrate JavaScript for dynamic interactions and improve user experience!
 
-Check out the project on GitHub (if applicable) 👉 [Your GitHub Link]
+
 
 Would love to hear your feedback! Have you worked on similar projects? Let’s connect and discuss! 🔥👇
 
